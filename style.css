@@ -1,0 +1,14 @@
+.profile-picture{
+    border-radius: 50%;
+    width:250px;
+    height=400px;
+}
+
+#header{
+    background-color: peachpuff;
+}
+.family-pic{
+    border-radius:50%;
+    max-width: 100%;
+    height:400px;
+}
